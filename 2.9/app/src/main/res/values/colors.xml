@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azulQualquer">#3BFAE4</color>
+    <color name="corDoLayout">#FF32BA01</color>
+    <color name="VerdeClaro2">#FF94FB4C</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Vermelho">#FF0000</color>
+    <color name="Verde">#00FF00</color>
+    <color name="Azul">#0000FF</color>
+    <color name="VermelhoLara">#FF4000</color>
+    <color name="Laranja">#FF8000</color>
+    <color name="LaranjaAmare">#D3FFE600</color>
+    <color name="Amarelo">#FFFF00</color>
+    <color name="VerdeClaro">#00FF40</color>
+    <color name="VerdeAzulado">#00BCD4</color>
+    <color name="Ciano">#009688</color>
+    <color name="VerdeAzul">#3F51B5</color>
+    <color name="AzulAverme">#4000FF</color>
+    <color name="Roxo">#8000FF</color>
+    <color name="RoxoClaro">#B400FF</color>
+    <color name="Violeta">#FF00FF</color>
+</resources>
